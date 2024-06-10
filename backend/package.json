@@ -1,0 +1,22 @@
+{
+  "name": "game-api",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "compromise": "^14.13.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.12.1",
+    "express": "^4.19.2",
+    "fuzzball": "^2.1.2",
+    "readline": "^1.3.0",
+    "screenshot-desktop": "^1.15.0"
+  }
+}
