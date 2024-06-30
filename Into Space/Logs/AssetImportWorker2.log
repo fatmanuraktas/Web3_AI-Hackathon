@@ -1,0 +1,1060 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.22f1 (887be4894c44) revision 8944612'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'tr' Physical Memory: 7865 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2022.3.22f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/FATMANUR/Documents/GitHub/Web3_AI-Hackathon/Into Space
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+51601
+Successfully changed project path to: C:/Users/FATMANUR/Documents/GitHub/Web3_AI-Hackathon/Into Space
+C:/Users/FATMANUR/Documents/GitHub/Web3_AI-Hackathon/Into Space
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15780] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3801128934 [EditorId] 3801128934 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QQ54MDQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [15780] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3801128934 [EditorId] 3801128934 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QQ54MDQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 245.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.22f1 (887be4894c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2022.3.22f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/FATMANUR/Documents/GitHub/Web3_AI-Hackathon/Into Space/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX550 (ID=0x1f9f)
+    Vendor:   NVIDIA
+    VRAM:     1919 MB
+    Driver:   31.0.15.4626
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2022.3.22f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2022.3.22f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 2022.3.22f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2022.3.22f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity 2022.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.013433 seconds.
+- Loaded All Assemblies, in  0.768 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.532 seconds
+Domain Reload Profiling: 1297ms
+	BeginReloadAssembly (218ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (67ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (118ms)
+	LoadAllAssembliesAndSetupDomain (339ms)
+		LoadAssemblies (215ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (335ms)
+			TypeCache.Refresh (332ms)
+				TypeCache.ScanAssembly (309ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (533ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (423ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (290ms)
+			ProcessInitializeOnLoadMethodAttributes (100ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.299 seconds
+Refreshing native plugins compatible for Editor in 5.99 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.182 seconds
+Domain Reload Profiling: 2476ms
+	BeginReloadAssembly (308ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (66ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (85ms)
+	LoadAllAssembliesAndSetupDomain (813ms)
+		LoadAssemblies (637ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (364ms)
+			TypeCache.Refresh (333ms)
+				TypeCache.ScanAssembly (259ms)
+			ScanForSourceGeneratedMonoScriptInfo (20ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1182ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (890ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (127ms)
+			ProcessInitializeOnLoadAttributes (686ms)
+			ProcessInitializeOnLoadMethodAttributes (40ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+database is locked
+Failed to delete database file Library/ShaderCache.db
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+Refreshing native plugins compatible for Editor in 5.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3232 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 37 unused Assets / (58.7 KB). Loaded Objects now: 3701.
+Memory consumption went from 197.3 MB to 197.3 MB.
+Total: 5.419200 ms (FindLiveObjects: 0.472300 ms CreateObjectMapping: 0.164600 ms MarkObjects: 4.594100 ms  DeleteObjects: 0.186900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/TypedData.cs: 68283fb0f12b977cea3ba9c85afffcaa -> 
+  custom:scripting/monoscript/fileName/WorldManager.cs: 0156b2dfabf87375d7b4027ba7d1fd84 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Runtime.gen.cs: 7e56aa0574515866eb2209ca2ea52835 -> 
+  custom:scripting/monoscript/fileName/ToriiWasmInterop.cs: 28db4ae66903c6436ea76cf8cbe95800 -> 
+  custom:scripting/monoscript/fileName/SigningKey.cs: 8430cd7281ea608ed5951d093eafa89c -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/Model.cs: 8764e6a339c5f0463515ea8c2bac4388 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/ToriiWasmClient.cs: 6f7f1e79df48cab017d6d60f5d54c78f -> 
+  custom:scripting/monoscript/fileName/WorldManagerData.cs: a23491b530d67c7ef96c93ef602cfa1f -> 
+  custom:scripting/monoscript/fileName/ToriiEvents.cs: bd3528db9d152baa3fd9cbbf4d5a6a26 -> 
+  custom:scripting/monoscript/fileName/JsonRpcClient.cs: 67029a766072b228860fe899f5e7874d -> 
+  custom:scripting/monoscript/fileName/ToriiClient.cs: 079223d7362474e97055d9163189781a -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/dojo.gen.cs: 01d257e6ea99bc0dc0b8b895d81433aa -> 
+  custom:scripting/monoscript/fileName/UnityMainThreadDispatcher.cs: 17908cb06003ef38bb25e0cc0def9989 -> 
+  custom:scripting/monoscript/fileName/ExecutionHelper.cs: 2e2115114e9327f15c9a8722ee3fdfd3 -> 
+  custom:scripting/monoscript/fileName/BurnerManager.cs: fd6581677de09eb21d1522f4d206d497 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/VerifyingKey.cs: 040917d00293cb0aa21f90c008767703 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/Entity.cs: a7e73100366b66863d810979099f9ba4 -> 
+  custom:scripting/monoscript/fileName/ModelInstance.cs: bbd626080f9673c83c5d45453832b808 -> 
+  custom:scripting/monoscript/fileName/SynchronizationMaster.cs: 262a85841935789ebef7060b62944196 -> 
+  custom:scripting/monoscript/fileName/DojoTests.cs: c3492be68b670f76091eb66c1d416dfe -> 
+  custom:scripting/monoscript/fileName/Account.cs: e53e2019ba2ee8215131b80a6d318383 -> 
+  custom:scripting/monoscript/fileName/Signature.cs: 4a9efce99b1085bcb82b90c40effd75d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/StarknetInterop.cs: bd52f6ff873e7776b79e7b674cf6102b -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Query.cs: 863c0746b63e75d146b24028a9789972 -> 
+  custom:scripting/monoscript/fileName/FieldElement.cs: e825e95613268afe44c600f7aad1c1ab -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.838 seconds
+Refreshing native plugins compatible for Editor in 7.85 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.874 seconds
+Domain Reload Profiling: 2709ms
+	BeginReloadAssembly (233ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (493ms)
+		LoadAssemblies (586ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (44ms)
+			TypeCache.Refresh (16ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (13ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1874ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (831ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (120ms)
+			ProcessInitializeOnLoadAttributes (628ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+Refreshing native plugins compatible for Editor in 6.29 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3185 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 35 unused Assets / (35.8 KB). Loaded Objects now: 3697.
+Memory consumption went from 189.5 MB to 189.5 MB.
+Total: 5.324900 ms (FindLiveObjects: 0.453900 ms CreateObjectMapping: 0.126700 ms MarkObjects: 4.619800 ms  DeleteObjects: 0.121000 ms)
+
+Prepare: number of updated asset objects reloaded= 4
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/TypedData.cs: 68283fb0f12b977cea3ba9c85afffcaa -> 
+  custom:scripting/monoscript/fileName/WorldManager.cs: 0156b2dfabf87375d7b4027ba7d1fd84 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Runtime.gen.cs: 7e56aa0574515866eb2209ca2ea52835 -> 
+  custom:scripting/monoscript/fileName/ToriiWasmInterop.cs: 28db4ae66903c6436ea76cf8cbe95800 -> 
+  custom:scripting/monoscript/fileName/SigningKey.cs: 8430cd7281ea608ed5951d093eafa89c -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/Model.cs: 8764e6a339c5f0463515ea8c2bac4388 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/ToriiWasmClient.cs: 6f7f1e79df48cab017d6d60f5d54c78f -> 
+  custom:scripting/monoscript/fileName/WorldManagerData.cs: a23491b530d67c7ef96c93ef602cfa1f -> 
+  custom:scripting/monoscript/fileName/ToriiEvents.cs: bd3528db9d152baa3fd9cbbf4d5a6a26 -> 
+  custom:scripting/monoscript/fileName/JsonRpcClient.cs: 67029a766072b228860fe899f5e7874d -> 
+  custom:scripting/monoscript/fileName/ToriiClient.cs: 079223d7362474e97055d9163189781a -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/dojo.gen.cs: 01d257e6ea99bc0dc0b8b895d81433aa -> 
+  custom:scripting/monoscript/fileName/UnityMainThreadDispatcher.cs: 17908cb06003ef38bb25e0cc0def9989 -> 
+  custom:scripting/monoscript/fileName/ExecutionHelper.cs: 2e2115114e9327f15c9a8722ee3fdfd3 -> 
+  custom:scripting/monoscript/fileName/BurnerManager.cs: fd6581677de09eb21d1522f4d206d497 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/VerifyingKey.cs: 040917d00293cb0aa21f90c008767703 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/Entity.cs: a7e73100366b66863d810979099f9ba4 -> 
+  custom:scripting/monoscript/fileName/ModelInstance.cs: bbd626080f9673c83c5d45453832b808 -> 
+  custom:scripting/monoscript/fileName/SynchronizationMaster.cs: 262a85841935789ebef7060b62944196 -> 
+  custom:scripting/monoscript/fileName/DojoTests.cs: c3492be68b670f76091eb66c1d416dfe -> 
+  custom:scripting/monoscript/fileName/Account.cs: e53e2019ba2ee8215131b80a6d318383 -> 
+  custom:scripting/monoscript/fileName/Signature.cs: 4a9efce99b1085bcb82b90c40effd75d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/StarknetInterop.cs: bd52f6ff873e7776b79e7b674cf6102b -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Query.cs: 863c0746b63e75d146b24028a9789972 -> 
+  custom:scripting/monoscript/fileName/FieldElement.cs: e825e95613268afe44c600f7aad1c1ab -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1385073.495630 seconds.
+  path: Assets/Planets/models
+  artifactKey: Guid(c410774feda42be448648ebcb2148bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Planets/models using Guid(c410774feda42be448648ebcb2148bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef5fc1895b1e71ec2f600b285f4447a') in 0.014474 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.070117 seconds.
+  path: Assets/Planets/models/egipt.FBX
+  artifactKey: Guid(ee6535f71428504449546c25c0673573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Planets/models/egipt.FBX using Guid(ee6535f71428504449546c25c0673573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e89792b35f8a6fd20de9cd2efc9a5e8') in 0.245323 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Planets/models/pine.FBX
+  artifactKey: Guid(fb680f4821f3d8749b8d53fafec2df84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Planets/models/pine.FBX using Guid(fb680f4821f3d8749b8d53fafec2df84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06ca76f6b17fdfcd5ee51073cf338e8b') in 0.043882 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.844 seconds
+Refreshing native plugins compatible for Editor in 7.29 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.942 seconds
+Domain Reload Profiling: 2782ms
+	BeginReloadAssembly (228ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (500ms)
+		LoadAssemblies (595ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (39ms)
+			TypeCache.Refresh (22ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1943ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (781ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (121ms)
+			ProcessInitializeOnLoadAttributes (578ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+Refreshing native plugins compatible for Editor in 5.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3184 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (32.2 KB). Loaded Objects now: 3707.
+Memory consumption went from 195.4 MB to 195.3 MB.
+Total: 5.002800 ms (FindLiveObjects: 0.322900 ms CreateObjectMapping: 0.107800 ms MarkObjects: 4.458400 ms  DeleteObjects: 0.111200 ms)
+
+Prepare: number of updated asset objects reloaded= 1
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/TypedData.cs: 68283fb0f12b977cea3ba9c85afffcaa -> 
+  custom:scripting/monoscript/fileName/WorldManager.cs: 0156b2dfabf87375d7b4027ba7d1fd84 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Runtime.gen.cs: 7e56aa0574515866eb2209ca2ea52835 -> 
+  custom:scripting/monoscript/fileName/ToriiWasmInterop.cs: 28db4ae66903c6436ea76cf8cbe95800 -> 
+  custom:scripting/monoscript/fileName/SigningKey.cs: 8430cd7281ea608ed5951d093eafa89c -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/Model.cs: 8764e6a339c5f0463515ea8c2bac4388 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/ToriiWasmClient.cs: 6f7f1e79df48cab017d6d60f5d54c78f -> 
+  custom:scripting/monoscript/fileName/WorldManagerData.cs: a23491b530d67c7ef96c93ef602cfa1f -> 
+  custom:scripting/monoscript/fileName/ToriiEvents.cs: bd3528db9d152baa3fd9cbbf4d5a6a26 -> 
+  custom:scripting/monoscript/fileName/JsonRpcClient.cs: 67029a766072b228860fe899f5e7874d -> 
+  custom:scripting/monoscript/fileName/ToriiClient.cs: 079223d7362474e97055d9163189781a -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/dojo.gen.cs: 01d257e6ea99bc0dc0b8b895d81433aa -> 
+  custom:scripting/monoscript/fileName/UnityMainThreadDispatcher.cs: 17908cb06003ef38bb25e0cc0def9989 -> 
+  custom:scripting/monoscript/fileName/ExecutionHelper.cs: 2e2115114e9327f15c9a8722ee3fdfd3 -> 
+  custom:scripting/monoscript/fileName/BurnerManager.cs: fd6581677de09eb21d1522f4d206d497 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/VerifyingKey.cs: 040917d00293cb0aa21f90c008767703 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/Entity.cs: a7e73100366b66863d810979099f9ba4 -> 
+  custom:scripting/monoscript/fileName/ModelInstance.cs: bbd626080f9673c83c5d45453832b808 -> 
+  custom:scripting/monoscript/fileName/SynchronizationMaster.cs: 262a85841935789ebef7060b62944196 -> 
+  custom:scripting/monoscript/fileName/DojoTests.cs: c3492be68b670f76091eb66c1d416dfe -> 
+  custom:scripting/monoscript/fileName/Account.cs: e53e2019ba2ee8215131b80a6d318383 -> 
+  custom:scripting/monoscript/fileName/Signature.cs: 4a9efce99b1085bcb82b90c40effd75d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/StarknetInterop.cs: bd52f6ff873e7776b79e7b674cf6102b -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Query.cs: 863c0746b63e75d146b24028a9789972 -> 
+  custom:scripting/monoscript/fileName/FieldElement.cs: e825e95613268afe44c600f7aad1c1ab -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.769 seconds
+Refreshing native plugins compatible for Editor in 6.75 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.706 seconds
+Domain Reload Profiling: 2471ms
+	BeginReloadAssembly (211ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (44ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (451ms)
+		LoadAssemblies (539ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (32ms)
+			TypeCache.Refresh (14ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1706ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (734ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (120ms)
+			ProcessInitializeOnLoadAttributes (534ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (14ms)
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+Refreshing native plugins compatible for Editor in 6.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3185 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (32.3 KB). Loaded Objects now: 3709.
+Memory consumption went from 197.3 MB to 197.2 MB.
+Total: 4.339400 ms (FindLiveObjects: 0.384600 ms CreateObjectMapping: 0.142900 ms MarkObjects: 3.686400 ms  DeleteObjects: 0.123800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/TypedData.cs: 68283fb0f12b977cea3ba9c85afffcaa -> 
+  custom:scripting/monoscript/fileName/WorldManager.cs: 0156b2dfabf87375d7b4027ba7d1fd84 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Runtime.gen.cs: 7e56aa0574515866eb2209ca2ea52835 -> 
+  custom:scripting/monoscript/fileName/ToriiWasmInterop.cs: 28db4ae66903c6436ea76cf8cbe95800 -> 
+  custom:scripting/monoscript/fileName/SigningKey.cs: 8430cd7281ea608ed5951d093eafa89c -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/Model.cs: 8764e6a339c5f0463515ea8c2bac4388 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/ToriiWasmClient.cs: 6f7f1e79df48cab017d6d60f5d54c78f -> 
+  custom:scripting/monoscript/fileName/WorldManagerData.cs: a23491b530d67c7ef96c93ef602cfa1f -> 
+  custom:scripting/monoscript/fileName/ToriiEvents.cs: bd3528db9d152baa3fd9cbbf4d5a6a26 -> 
+  custom:scripting/monoscript/fileName/JsonRpcClient.cs: 67029a766072b228860fe899f5e7874d -> 
+  custom:scripting/monoscript/fileName/ToriiClient.cs: 079223d7362474e97055d9163189781a -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/dojo.gen.cs: 01d257e6ea99bc0dc0b8b895d81433aa -> 
+  custom:scripting/monoscript/fileName/UnityMainThreadDispatcher.cs: 17908cb06003ef38bb25e0cc0def9989 -> 
+  custom:scripting/monoscript/fileName/ExecutionHelper.cs: 2e2115114e9327f15c9a8722ee3fdfd3 -> 
+  custom:scripting/monoscript/fileName/BurnerManager.cs: fd6581677de09eb21d1522f4d206d497 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/VerifyingKey.cs: 040917d00293cb0aa21f90c008767703 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/Entity.cs: a7e73100366b66863d810979099f9ba4 -> 
+  custom:scripting/monoscript/fileName/ModelInstance.cs: bbd626080f9673c83c5d45453832b808 -> 
+  custom:scripting/monoscript/fileName/SynchronizationMaster.cs: 262a85841935789ebef7060b62944196 -> 
+  custom:scripting/monoscript/fileName/DojoTests.cs: c3492be68b670f76091eb66c1d416dfe -> 
+  custom:scripting/monoscript/fileName/Account.cs: e53e2019ba2ee8215131b80a6d318383 -> 
+  custom:scripting/monoscript/fileName/Signature.cs: 4a9efce99b1085bcb82b90c40effd75d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/StarknetInterop.cs: bd52f6ff873e7776b79e7b674cf6102b -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Query.cs: 863c0746b63e75d146b24028a9789972 -> 
+  custom:scripting/monoscript/fileName/FieldElement.cs: e825e95613268afe44c600f7aad1c1ab -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.038 seconds
+Refreshing native plugins compatible for Editor in 8.04 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.040 seconds
+Domain Reload Profiling: 3070ms
+	BeginReloadAssembly (316ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (58ms)
+	RebuildCommonClasses (68ms)
+	RebuildNativeTypeToScriptingClass (29ms)
+	initialDomainReloadingComplete (86ms)
+	LoadAllAssembliesAndSetupDomain (530ms)
+		LoadAssemblies (688ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (28ms)
+			TypeCache.Refresh (11ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (2041ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (836ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (125ms)
+			ProcessInitializeOnLoadAttributes (622ms)
+			ProcessInitializeOnLoadMethodAttributes (50ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+database is locked
+Refreshing native plugins compatible for Editor in 7.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3185 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (32.2 KB). Loaded Objects now: 3712.
+Memory consumption went from 199.2 MB to 199.2 MB.
+Total: 5.647200 ms (FindLiveObjects: 0.567400 ms CreateObjectMapping: 0.241400 ms MarkObjects: 4.742500 ms  DeleteObjects: 0.094000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/TypedData.cs: 68283fb0f12b977cea3ba9c85afffcaa -> 
+  custom:scripting/monoscript/fileName/WorldManager.cs: 0156b2dfabf87375d7b4027ba7d1fd84 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/Runtime.gen.cs: 7e56aa0574515866eb2209ca2ea52835 -> 
+  custom:scripting/monoscript/fileName/ToriiWasmInterop.cs: 28db4ae66903c6436ea76cf8cbe95800 -> 
+  custom:scripting/monoscript/fileName/SigningKey.cs: 8430cd7281ea608ed5951d093eafa89c -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/Model.cs: 8764e6a339c5f0463515ea8c2bac4388 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/ToriiWasmClient.cs: 6f7f1e79df48cab017d6d60f5d54c78f -> 
+  custom:scripting/monoscript/fileName/WorldManagerData.cs: a23491b530d67c7ef96c93ef602cfa1f -> 
+  custom:scripting/monoscript/fileName/ToriiEvents.cs: bd3528db9d152baa3fd9cbbf4d5a6a26 -> 
+  custom:scripting/monoscript/fileName/JsonRpcClient.cs: 67029a766072b228860fe899f5e7874d -> 
+  custom:scripting/monoscript/fileName/ToriiClient.cs: 079223d7362474e97055d9163189781a -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/dojo.gen.cs: 01d257e6ea99bc0dc0b8b895d81433aa -> 
+  custom:scripting/monoscript/fileName/UnityMainThreadDispatcher.cs: 17908cb06003ef38bb25e0cc0def9989 -> 
+  custom:scripting/monoscript/fileName/ExecutionHelper.cs: 2e2115114e9327f15c9a8722ee3fdfd3 -> 
+  custom:scripting/monoscript/fileName/BurnerManager.cs: fd6581677de09eb21d1522f4d206d497 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/VerifyingKey.cs: 040917d00293cb0aa21f90c008767703 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/Entity.cs: a7e73100366b66863d810979099f9ba4 -> 
+  custom:scripting/monoscript/fileName/ModelInstance.cs: bbd626080f9673c83c5d45453832b808 -> 
+  custom:scripting/monoscript/fileName/SynchronizationMaster.cs: 262a85841935789ebef7060b62944196 -> 
+  custom:scripting/monoscript/fileName/DojoTests.cs: c3492be68b670f76091eb66c1d416dfe -> 
+  custom:scripting/monoscript/fileName/Account.cs: e53e2019ba2ee8215131b80a6d318383 -> 
+  custom:scripting/monoscript/fileName/Signature.cs: 4a9efce99b1085bcb82b90c40effd75d -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/StarknetInterop.cs: bd52f6ff873e7776b79e7b674cf6102b -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Query.cs: 863c0746b63e75d146b24028a9789972 -> 
+  custom:scripting/monoscript/fileName/FieldElement.cs: e825e95613268afe44c600f7aad1c1ab -> 
+========================================================================
+Received Import Request.
+  Time since last request: 810.812203 seconds.
+  path: Assets/Pixel art Menu package (5 sets)/metal
+  artifactKey: Guid(4746e6ea2cff234479ad75f0e9d3dd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel art Menu package (5 sets)/metal using Guid(4746e6ea2cff234479ad75f0e9d3dd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44e964ce4bbf1bccbd484dfbf852dda') in 0.042242 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.972907 seconds.
+  path: Assets/Pixel art Menu package (5 sets)/metal/metal border.png
+  artifactKey: Guid(0ece73ca3b0d0a0419d3a6c964981690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel art Menu package (5 sets)/metal/metal border.png using Guid(0ece73ca3b0d0a0419d3a6c964981690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de431031a201e1616fc1f7e43926fff') in 0.927797 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Pixel art Menu package (5 sets)/metal/options big.png
+  artifactKey: Guid(c5d1219da42b4b04bab2bb45f4c26493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel art Menu package (5 sets)/metal/options big.png using Guid(c5d1219da42b4b04bab2bb45f4c26493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e50c23e152ac79fa1e09ca5edf25e7') in 0.140252 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Pixel art Menu package (5 sets)/metal/window border.png
+  artifactKey: Guid(c880715d87b121a43ac6bbe7cef3abd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel art Menu package (5 sets)/metal/window border.png using Guid(c880715d87b121a43ac6bbe7cef3abd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '327d853f47464cf7bc29bb28d434cf8e') in 0.140190 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Pixel art Menu package (5 sets)/metal/metal square border.png
+  artifactKey: Guid(dde6c3f1954894b4bb62f204ab3eddcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel art Menu package (5 sets)/metal/metal square border.png using Guid(dde6c3f1954894b4bb62f204ab3eddcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99dba25a763b3480e326691887e61f33') in 0.123051 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Pixel art Menu package (5 sets)/metal/options.png
+  artifactKey: Guid(37bd1de02740d5543bb12786d65bd6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel art Menu package (5 sets)/metal/options.png using Guid(37bd1de02740d5543bb12786d65bd6ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4cd2dfe6d08248bb3b57133963696a') in 0.121598 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Pixel art Menu package (5 sets)/metal/metal switch pin.png
+  artifactKey: Guid(d53f5ae63c175784388e90aa387c2b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel art Menu package (5 sets)/metal/metal switch pin.png using Guid(d53f5ae63c175784388e90aa387c2b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ba3a1f5d5ac7ee65bbdf701ab44fdb6') in 0.157844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.001672 seconds.
+  path: Assets/Pixel art Menu package (5 sets)/metal/metal switch on.png
+  artifactKey: Guid(6935d9486d7e586499b32eb33f9e9dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel art Menu package (5 sets)/metal/metal switch on.png using Guid(6935d9486d7e586499b32eb33f9e9dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92734496581bcb30f7deaaec44c6e425') in 0.127000 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Pixel art Menu package (5 sets)/metal/metal switch off.png
+  artifactKey: Guid(285d25973c7df714fa3b2a254171395f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel art Menu package (5 sets)/metal/metal switch off.png using Guid(285d25973c7df714fa3b2a254171395f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fddcc5fe094746f74aa8363ff6569c72') in 0.119623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 13.914637 seconds.
+  path: Assets/Prefabs/Button_1.png
+  artifactKey: Guid(8a31ecfe95f96f04a8ae1c4fb23cf642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Button_1.png using Guid(8a31ecfe95f96f04a8ae1c4fb23cf642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8a59bb19e8cc46db88a949f7048346') in 0.134402 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: Bir iþ parçacýðý çýkýþý veya bir uygulama isteði nedeniyle G/Ç iþlemi iptal edildi.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
